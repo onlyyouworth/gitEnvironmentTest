@@ -14,5 +14,6 @@ public class git {
         System.out.println("hello,hot 2");
         System.out.println("hello,hot 2");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
